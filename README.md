@@ -1,5 +1,7 @@
 # creative_coding_II_project_3-game
 
+See https://rubenmagallanes.github.io for a gif of the game & short explanation. 
+
 running: download / clone onto your machine: git clone https://github.com/RubenMagallanes/creative_coding_II_project_3-game.git
 
 run from source
